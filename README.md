@@ -11,6 +11,8 @@
 ```php sit.php```
 
 # Tutor Nuyul
+- ``` pkg install php ```(skip kalo udh install)
+- ``` pkg install git ```(skip kalo udh install)
 
 1. git clone ```https://github.com/ctrndk/sit.git```
 2. ```ls```
