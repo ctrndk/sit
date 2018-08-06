@@ -1,11 +1,11 @@
-#Dr padalo ngemid2 minta suntik ga dikasih
+# Dr padalo ngemid2 minta suntik ga dikasih
 
 **catatan**: Minta Suntikin lewat ***PM*** ga bakal dibales ea
 
-#Lewat ***php cli***
+# Lewat ***php cli***
 ```php namafile.php```
 
-#NOT FOR SELL YA
+> NOT FOR SELL YA
 
 #Tutor Nuyul share it di PC
 1. Buka file https://ghostbin.com/paste/aykek/raw
