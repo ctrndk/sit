@@ -9,7 +9,7 @@
 
 # Tutor Nuyul
 
-1. git clone ```https://github.com/ctrndk/sit.php```
+1. git clone ```https://github.com/ctrndk/sit.git```
 2. ```ls```
 3. ```cd sit```
 4. Klik shell/Terminal (buka cmd)
