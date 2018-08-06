@@ -1,7 +1,7 @@
 > NOT FOR SELL YA
 # Keterangan
-File ```index.php``` Untuk browser
-File ```sit.php``` Untuk Cli
+1. ```index.php``` Untuk browser
+2. ```sit.php``` Untuk Cli
 
 # Dr padalo ngemid2 minta suntik ga dikasih
 
