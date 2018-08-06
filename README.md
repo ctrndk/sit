@@ -5,16 +5,15 @@
 **catatan**: Minta Suntikin lewat ***PM*** ga bakal dibales ea
 
 # Lewat ***php cli***
-```php namafile.php```
+```php sit.php```
 
+# Tutor Nuyul
 
-# Tutor Nuyul share it di PC
-1. Buka file https://ghostbin.com/paste/aykek/raw
-2. Copy kodingannya
-3. Copas ke sublime trus save as jadiin filenya .php
-4. Buka xampp aktifin apache+mysql
-5. Klik shell
-6. Ketik ```php jal.php```
-7. Input kode refferal lu
-8. Input Jumlah Chances
-9. Done
+1. git clone ```https://github.com/ctrndk/sit.php```
+2. ```ls```
+3. ```cd sit```
+4. Klik shell/Terminal (buka cmd)
+5. Ketik ```php sit.php```
+6. Input kode refferal lu
+7. Input Jumlah Chances
+8. Done
