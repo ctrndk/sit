@@ -1,3 +1,5 @@
+> NOT FOR SELL YA
+
 # Dr padalo ngemid2 minta suntik ga dikasih
 
 **catatan**: Minta Suntikin lewat ***PM*** ga bakal dibales ea
@@ -5,9 +7,8 @@
 # Lewat ***php cli***
 ```php namafile.php```
 
-> NOT FOR SELL YA
 
-#Tutor Nuyul share it di PC
+# Tutor Nuyul share it di PC
 1. Buka file https://ghostbin.com/paste/aykek/raw
 2. Copy kodingannya
 3. Copas ke sublime trus save as jadiin filenya .php
