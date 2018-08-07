@@ -37,7 +37,7 @@ echo "Input Jumlah: ";
 $jumlah = read();
 
 for ($x = 0; $x <= $jumlah; $x++){
-   echo '$x'.'. ';
+   echo $x.'. ';
     $go = add();
     echo ' '. date("H:i:s").  ' ' .$go. "\n";
 }
